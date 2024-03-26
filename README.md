@@ -1,8 +1,6 @@
 
 
-```shell
-git clone https://github.com/AntonioErdeljac/twitter-clone.git
-```
+
 
 ### Install packages
 
